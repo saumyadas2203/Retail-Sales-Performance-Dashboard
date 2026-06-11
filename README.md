@@ -65,6 +65,3 @@ The dashboard enables stakeholders to:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
